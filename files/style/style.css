@@ -1,6 +1,22 @@
 .photo-title {
     position: absolute;
     width: 40vw;
-    top: 5vw;
-    left: 3vw;
+    top: 8vw;
+    left: 5vw;
 }
+
+.welcome {
+    position: absolute;
+    font-size: 2vw;
+    top: 36vw;
+    left: 11vw;
+}
+
+.vl {
+    position: fixed;
+    border-left: 6px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    height: 70%;
+    top: 7.5vw;
+    left: 50vw;
+  }
