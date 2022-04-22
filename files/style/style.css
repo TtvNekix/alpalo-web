@@ -5,6 +5,13 @@
     left: 5vw;
 }
 
+.photo-game {
+    position: absolute;
+    width: 19vw;
+    top: 8vw;
+    right: 17vw;
+}
+
 .welcome {
     position: absolute;
     font-size: 2vw;
@@ -12,11 +19,18 @@
     left: 11vw;
 }
 
+.last-game {
+    position: absolute;
+    font-size: 2vw;
+    top: 36vw;
+    right: 20.5vw;
+}
+
 .vl {
     position: fixed;
     border-left: 6px solid rgb(0, 0, 0);
     border-radius: 5px;
     height: 70%;
-    top: 7.5vw;
+    top: 6.7vw;
     left: 50vw;
   }
