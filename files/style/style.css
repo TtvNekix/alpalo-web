@@ -10,6 +10,7 @@
     width: 19vw;
     top: 8vw;
     right: 17vw;
+    border-radius: 8px;
 }
 
 .welcome {
@@ -30,7 +31,7 @@
     position: fixed;
     border-left: 6px solid rgb(0, 0, 0);
     border-radius: 5px;
-    height: 70%;
+    height: 35vw;
     top: 6.7vw;
     left: 50vw;
   }
