@@ -15,6 +15,7 @@
 
 .welcome {
     position: absolute;
+    color: white;
     font-size: 2vw;
     top: 36vw;
     left: 11vw;
@@ -22,16 +23,21 @@
 
 .last-game {
     position: absolute;
+    color: white;
     font-size: 2vw;
     top: 36vw;
-    right: 20.5vw;
+    right: 18.8vw;
 }
 
 .vl {
     position: fixed;
-    border-left: 6px solid rgb(0, 0, 0);
+    border-left: 6px solid rgb(255, 255, 255);
     border-radius: 5px;
     height: 35vw;
     top: 6.7vw;
     left: 50vw;
-  }
+}
+
+#navbarstyle {
+    font-size: 1vw;
+}
